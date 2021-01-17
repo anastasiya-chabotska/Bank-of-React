@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Bank-of-React/static/css/main.f59a2e83.chunk.css",
+    "main.js": "/Bank-of-React/static/js/main.e3d08f8d.chunk.js",
+    "main.js.map": "/Bank-of-React/static/js/main.e3d08f8d.chunk.js.map",
+    "runtime-main.js": "/Bank-of-React/static/js/runtime-main.cc90a039.js",
+    "runtime-main.js.map": "/Bank-of-React/static/js/runtime-main.cc90a039.js.map",
+    "static/js/2.07bcdb70.chunk.js": "/Bank-of-React/static/js/2.07bcdb70.chunk.js",
+    "static/js/2.07bcdb70.chunk.js.map": "/Bank-of-React/static/js/2.07bcdb70.chunk.js.map",
+    "static/js/3.b3f7dad6.chunk.js": "/Bank-of-React/static/js/3.b3f7dad6.chunk.js",
+    "static/js/3.b3f7dad6.chunk.js.map": "/Bank-of-React/static/js/3.b3f7dad6.chunk.js.map",
+    "index.html": "/Bank-of-React/index.html",
+    "static/css/main.f59a2e83.chunk.css.map": "/Bank-of-React/static/css/main.f59a2e83.chunk.css.map",
+    "static/js/2.07bcdb70.chunk.js.LICENSE.txt": "/Bank-of-React/static/js/2.07bcdb70.chunk.js.LICENSE.txt",
+    "static/media/bank.4d8b6bbe.png": "/Bank-of-React/static/media/bank.4d8b6bbe.png",
+    "static/media/logo.6ce24c58.svg": "/Bank-of-React/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc90a039.js",
+    "static/js/2.07bcdb70.chunk.js",
+    "static/css/main.f59a2e83.chunk.css",
+    "static/js/main.e3d08f8d.chunk.js"
+  ]
+}
